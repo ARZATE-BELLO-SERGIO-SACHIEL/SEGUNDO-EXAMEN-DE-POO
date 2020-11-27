@@ -3,6 +3,8 @@ import java.util.Random;
 
 public class Maquina{
 
+    //se jugaria contra la maquina pero no tube ni idea de como hacer la maquina 
+    //ni mucho menos de hacer juagafor vs jugador 
 
     
 }

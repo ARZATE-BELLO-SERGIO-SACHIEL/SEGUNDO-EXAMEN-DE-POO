@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//se hiban a cargar todos los metodos 
 public class Principal{
 
     public static void main(String []args){
